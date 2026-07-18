@@ -1982,6 +1982,7 @@ markers:
   - {type: punctuation, offset: 4300, content: ，, id: KR3ep090_jc_015-bkkpn955}
   - {type: 'tls:seg', offset: 4300, content: '', id: KR3ep090_jc_015-d16.d11.p2s22}
   - {type: punctuation, offset: 4303, content: (, id: KR3ep090_jc_015-bkkpn956}
+  - {type: voice, offset: 4303, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 4305, content: ), id: KR3ep090_jc_015-bkkpn957}
   - {type: punctuation, offset: 4305, content: 、, id: KR3ep090_jc_015-bkkpn958}
   - {type: 'tls:seg', offset: 4305, content: '', id: KR3ep090_jc_015-d16.d11.p2s23}
@@ -2043,6 +2044,7 @@ markers:
   - {type: punctuation, offset: 4389, content: ，, id: KR3ep090_jc_015-bkkpn986}
   - {type: 'tls:seg', offset: 4389, content: '', id: KR3ep090_jc_015-d16.d11.p2s52}
   - {type: punctuation, offset: 4391, content: (, id: KR3ep090_jc_015-bkkpn987}
+  - {type: voice, offset: 4391, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 4393, content: ), id: KR3ep090_jc_015-bkkpn988}
   - {type: punctuation, offset: 4393, content: 、, id: KR3ep090_jc_015-bkkpn989}
   - {type: 'tls:seg', offset: 4393, content: '', id: KR3ep090_jc_015-d16.d11.p2s53}
@@ -2148,6 +2150,7 @@ markers:
   - {type: 'tls:seg-end', offset: 4562, content: '', id: KR3ep090_jc_015-d16.d11.p2s99_end, seg_type: comm}
   - {type: 'tls:seg', offset: 4562, content: '', id: KR3ep090_jc_015-d16.d11.p2s100}
   - {type: punctuation, offset: 4564, content: (, id: KR3ep090_jc_015-bkkpn1038}
+  - {type: voice, offset: 4564, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 4565, content: ), id: KR3ep090_jc_015-bkkpn1039}
   - {type: punctuation, offset: 4565, content: 、, id: KR3ep090_jc_015-bkkpn1040}
   - {type: 'tls:seg', offset: 4565, content: '', id: KR3ep090_jc_015-d16.d11.p2s101}
@@ -2739,4 +2742,4 @@ markers:
   - {type: punctuation, offset: 5802, content: 。, id: KR3ep090_jc_015-bkkpn1326}
   - {type: xml-element, offset: 5802, content: '', id: KR3ep090_jc_015-d16.d15p2_end, name: p, role: close, attrs: {'xml:id': KR3ep090_jc_015-d16.d15p2}}
   back: []
-hash: sha256:af7b1bf4f38ea3336025a63b036e1e72e2d223e3e5786e991bb9793bc39d847c
+hash: sha256:43bb9b9ff5ad9f9035b1cade02839c95e1370b56149917a96245573abb4e581a
